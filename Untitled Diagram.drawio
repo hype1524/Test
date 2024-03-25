@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T13:40:39.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vUqe7rLkxYzf09ou2R-o" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T13:41:18.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Y0Vj3cJZDNlVfufIoWvs" version="24.1.0" type="github">
   <diagram name="Page-1" id="GsYVpZbmv9k2uVQtt64Y">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -111,6 +111,15 @@
               <mxPoint x="240" y="971" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PAWz1CpkK6lc-2XdgzHD-32" value="Phòng Kế hoạch Tài chính" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="28" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PAWz1CpkK6lc-2XdgzHD-33" value="Hệ thống" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="28" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PAWz1CpkK6lc-2XdgzHD-34" value="Sinh viên" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="28" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
