@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T13:38:05.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7D0pyJ4dGRIpNHQxjYi8" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T13:40:39.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vUqe7rLkxYzf09ou2R-o" version="24.1.0" type="github">
   <diagram name="Page-1" id="GsYVpZbmv9k2uVQtt64Y">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,6 +79,36 @@
             <mxPoint x="560" y="760" as="targetPoint" />
             <Array as="points">
               <mxPoint x="710" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAWz1CpkK6lc-2XdgzHD-27" value="Xuất hóa đơn thanh toán tiền học" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="880" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PAWz1CpkK6lc-2XdgzHD-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.027;exitY=0.353;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.047;entryY=0.66;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PAWz1CpkK6lc-2XdgzHD-18" target="PAWz1CpkK6lc-2XdgzHD-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="710" as="sourcePoint" />
+            <mxPoint x="280" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAWz1CpkK6lc-2XdgzHD-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=-0.04;exitY=0.395;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.013;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PAWz1CpkK6lc-2XdgzHD-20" target="PAWz1CpkK6lc-2XdgzHD-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="810" as="sourcePoint" />
+            <mxPoint x="570" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAWz1CpkK6lc-2XdgzHD-30" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.4;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.027;entryY=0.913;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PAWz1CpkK6lc-2XdgzHD-15" target="PAWz1CpkK6lc-2XdgzHD-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="810" as="sourcePoint" />
+            <mxPoint x="180" y="1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="971" />
             </Array>
           </mxGeometry>
         </mxCell>
