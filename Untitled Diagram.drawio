@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T12:57:27.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.1.0" etag="Obo8_xgZWa7j-N6JMjUR" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T13:27:31.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="05R0FEGi0fEahsNt_Nsa" version="24.1.0" type="github">
   <diagram name="Page-1" id="GsYVpZbmv9k2uVQtt64Y">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PAWz1CpkK6lc-2XdgzHD-3" value="Tiếp nhận quyết định thu học phí" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="325" y="70" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PAWz1CpkK6lc-2XdgzHD-4" value="Nhập thông tin của các sinh viên trong học kỳ" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="325" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PAWz1CpkK6lc-2XdgzHD-5" value="Hệ thống tự động tính học phí sinh viên phải đóng" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="325" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PAWz1CpkK6lc-2XdgzHD-6" value="Tạo mẫu mail thông báo cho sinh viên" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="325" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PAWz1CpkK6lc-2XdgzHD-7" value="Hệ thống tự động gửi mail cho sinh viên" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="325" y="390" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
