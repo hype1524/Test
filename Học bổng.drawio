@@ -1,17 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T08:58:19.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="F2Lmx-dRaSWczPotnTEA" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T10:24:04.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vkvUnI-SRnwBiSymwMaF" version="24.2.0" type="github">
   <diagram name="Page-1" id="kBvX0uDrtbkzwptZ22Pw">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="__DquRtsZuzyyJIzlenk-1" value="Xác định Ngân sách học bổng theo tỷ lệ phần trăm các quỹ" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="__DquRtsZuzyyJIzlenk-1" value="Xác định Ngân sách học bổng theo tỷ lệ phần trăm các quỹ" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="320" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="__DquRtsZuzyyJIzlenk-2" value="Thành lập hội đồng xét duyệt học bổng" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="__DquRtsZuzyyJIzlenk-2" value="Thành lập hội đồng xét duyệt học bổng" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="420" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="__DquRtsZuzyyJIzlenk-3" value="Tổng hợp kết quả người học, xếp theo thứ tự từ cao xuống thấp" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="__DquRtsZuzyyJIzlenk-3" value="Tổng hợp kết quả người học, xếp theo thứ tự từ cao xuống thấp" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="415" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="V2R8KYQIioinMUOCY2qO-1" value="Quyết định lượng tiền tương ứng cho từng cá nhân" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="510" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V2R8KYQIioinMUOCY2qO-2" value="Xuất ra danh sách tiền học bổng" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V2R8KYQIioinMUOCY2qO-3" value="Kế toán ký duyệt" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="605" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V2R8KYQIioinMUOCY2qO-4" value="Ban Giám hiệu ký duyệt" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="605" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
