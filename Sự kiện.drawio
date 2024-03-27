@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T16:10:24.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-4JQHUQjG1ze7Ao4MXtt" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T16:11:53.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CWykZfuJ4b-z2Vk7z3mU" version="24.2.0" type="github">
   <diagram name="Page-1" id="5VOekYa0wZCWH28fAlYT">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -109,6 +109,24 @@
         </mxCell>
         <mxCell id="BLSg57F7Pyb8LWdIM2OY-25" value="Phòng Kế hoạch Tài chính" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="288" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BLSg57F7Pyb8LWdIM2OY-26" value="Làm chứng từ thanh toán và đề nghị thanh toán cho nhà trường" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="930" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BLSg57F7Pyb8LWdIM2OY-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BLSg57F7Pyb8LWdIM2OY-23" target="BLSg57F7Pyb8LWdIM2OY-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="870" as="sourcePoint" />
+            <mxPoint x="460" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BLSg57F7Pyb8LWdIM2OY-28" value="Xuất tiền cho các bên liên quan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1040" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BLSg57F7Pyb8LWdIM2OY-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BLSg57F7Pyb8LWdIM2OY-26" target="BLSg57F7Pyb8LWdIM2OY-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="970" as="sourcePoint" />
+            <mxPoint x="460" y="920" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
