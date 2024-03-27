@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T08:47:32.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="aKOpb-RgvoTj6ctEiWYR" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T08:48:18.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="j3XGvuELC8sOXdT61ZCS" version="24.1.0" type="github">
   <diagram name="Page-1" id="jJjRJWm9oL9bmskKg3DY">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
             <mxPoint x="440" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AeyiEeCCYzldVBtpaugz-4" value="Ban giám hiệu ký duyệt" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="AeyiEeCCYzldVBtpaugz-4" value="Ban Giám hiệu ký duyệt" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="540" y="395" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AeyiEeCCYzldVBtpaugz-5" value="Kế toán trưởng và kế toán lương ký duyệt" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
@@ -42,6 +42,15 @@
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AeyiEeCCYzldVBtpaugz-10" value="Phần mềm tính lương" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AeyiEeCCYzldVBtpaugz-11" value="Phòng Kế hoạch Tài chính" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AeyiEeCCYzldVBtpaugz-12" value="Ban Giám hiệu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
